@@ -12,3 +12,274 @@ echo '<html><h1>Hello world</h1></html>' > /var/www/html/index.html
 sso -> https://www.youtube.com/watch?v=vxvgpDZOuYw
 
 
+\Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	What is an IaaS?
+Demonstrate IaaS using FOSS. (make ubuntu in foss) 
+Which FOSS installation you used for completing the experiment?	40
+2	Journal	05
+3	Viva	05
+
+Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	What is an IaaS?
+Demonstrate IaaS using GCP/AWS. (use amazon ec2)
+Which FOSS installation you used for completing the experiment?	40
+2	Journal	05
+3	Viva	05
+
+Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	What is a PaaS?
+Demonstrate PaaS using FOSS. (kvm practical)
+Which FOSS installation you used for completing the experiment?	40
+2	Journal	05
+3	Viva	05
+
+
+
+
+Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	What is a PaaS?
+Demonstrate PaaS using GCP/AWS. (use python in ec2/ make a html page in aws) 
+Which FOSS installation you used for completing the experiment?	40
+2	Journal	05
+3	Viva	05
+
+ Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	What is a SaaS?
+Demonstrate SaaS using FOSS. ()
+Which FOSS installation you used for completing the experiment?	40
+2	Journal	05
+3	Viva	05
+
+Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	What is a SaaS?
+Demonstrate SaaS using GCP/AWS. ()
+Which FOSS installation you used for completing the experiment?	40
+2	Journal	05
+3	Viva	05
+
+
+
+
+
+Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	What is a Storage as a Service?
+Demonstrate Storage as a service using OwnCloud Server (local or cloud). 
+Assign different access permissions on different files and folders for different users.	40
+2	Journal	05
+3	Viva	05
+
+Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	What is a Storage as a Service?
+Demonstrate User Management using OwnCloud Server (local or cloud). 
+Assign different access permissions to different groups/users.	40
+2	Journal	05
+3	Viva	05
+
+Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	What is an IAM? What are its benefits?
+Demonstrate IAM using GCP/AWS.	40
+2	Journal	05
+3	Viva	05
+
+
+
+
+Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	What is a Multi-factor Authentication (MFA)? Why is it important?
+How Multi-factor authentication might be implemented in different ways?
+Demonstrate MFA use in GCP/AWS.	40
+2	Journal	05
+3	Viva	05
+
+Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	What is RSS Feed? Write a program for Web Feed	40
+2	Journal	05
+3	Viva	05
+
+Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	What is SSO? Why is SSO important?
+How does SSO compare with other access management solutions in AWS?
+Demonstrate use of SSO in AWS.	40
+2	Journal	05
+3	Viva	05
+
+
+
+Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	Describe case study undertaken by you. What cloud computing services you implemented?
+What platform you have used?
+What application you have developed?
+Demonstrate your case study.	40
+2	Journal	05
+3	Viva	05
+
+Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	Describe case study undertaken by you. What cloud computing services you implemented?
+What platform you have used?
+What application you have developed?
+Demonstrate your case study.	40
+2	Journal	05
+3	Viva	05
+
+Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	Describe case study undertaken by you. What cloud computing services you implemented?
+What platform you have used?
+What application you have developed?
+Demonstrate your case study.	40
+2	Journal	05
+3	Viva	05
+
+
+Course: Cloud Computing
+
+Candidate’s College Roll No: ______________
+
+N.B.: 1. Assume additional data required for completing the experiment. Explain it clearly.
+          2. Explain relevant theory in brief in your answer book. Draw imp figures/equations
+          3. Write conclusion of the experiment very clearly, precisely.
+          4. Any electronic material like mobile, smart watch not allowed.
+          5. Any malpractice will be reported to the Exam Dept.
+
+1	Describe case study undertaken by you. What cloud computing services you implemented?
+What platform you have used?
+What application you have developed?
+Demonstrate your case study.	40
+2	Journal	05
+3	Viva	05
+
+
