@@ -1,0 +1,14 @@
+saas in aws(refer below) 
+
+#!/bin/bash
+yum update -y
+yum -y install httpd
+systemctl enable httpd
+systemctl start httpd
+echo '<html><h1>Hello world</h1></html>' > /var/www/html/index.html
+
+
+
+sso -> https://www.youtube.com/watch?v=vxvgpDZOuYw
+
+
