@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Akshzz-16/Akshzz-16/main/wave.gif" width="30px"> Hi, I'm Akash  
 
-<img src=""> Python Developer 
+<img src="https://raw.githubusercontent.com/Akshzz-16/Akshzz-16/main/snake.gif" width="50px"> Python Developer 
 
 Welcome to my GitHub!  
 
