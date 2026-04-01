@@ -32,4 +32,6 @@ I build **desktop apps, web apps, and creative projects.** that balance clarity 
 
 ---
 
-✨ *I believe in building tools that are not just functional, but delightful to use.*  
+✨ *I believe in building tools that are not just functional, but delightful to use.* <br>
+[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/akashhh)
+
